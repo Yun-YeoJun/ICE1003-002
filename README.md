@@ -1,2 +1,2 @@
 # ICE1003-002
-ICE1003-002 프로그래밍 기초 수업의 소스코드
+Source code of ICE1003-002 Python Programming Basics
