@@ -4,7 +4,6 @@ create_world()
 
 hubo = Robot(orientation="W",avenue=7,street=5)
 hubo.set_trace('blue')
-hubo.set_pause(1)
 
 while not hubo.facing_north(): # set hubo face north
     hubo.turn_left()

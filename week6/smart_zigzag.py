@@ -1,6 +1,6 @@
 from cs1robots import *
 
-create_world(streets=7,avenues=111)
+create_world(streets=10,avenues=1)
 
 hubo = Robot()
 hubo.set_trace('blue')
@@ -15,7 +15,8 @@ def up_and_down():
         hubo.move()
     for i in range(2):
         turn_right()
-        hubo.move()
+        if hubo.front_is_clear():
+            hubo.move()
     while hubo.front_is_clear():
         hubo.move()
     hubo.turn_left()
