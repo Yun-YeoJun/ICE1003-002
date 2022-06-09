@@ -23,3 +23,5 @@ for i in list_of_country_code_and_country_name:
     if i[0] == enter_country_code:
         print(i[1])
         break
+
+f.close()
