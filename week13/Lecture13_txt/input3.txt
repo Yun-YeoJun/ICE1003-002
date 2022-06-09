@@ -1,0 +1,4 @@
+The undergraduate curriculum of the department consists of 3 levels: basic level (1st year), intermediate level (2nd and 3rd years), and advanced level (4th year).
+The curriculum relies on extensive hands-on experiments.
+In particular, the intermediate level includes basic courses in the field of information and communication engineering, such as "Wired/wireless communications", "Internet communications", and "Multimedia processing".
+Furthermore, the advanced level provides various advanced courses which can be chosen by students according to their interests and career goals.
