@@ -1,5 +1,0 @@
-avenues = 10
-streets = 10
-robot = (3, 4, 'S', 0)
-walls = []
-beepers = {}
